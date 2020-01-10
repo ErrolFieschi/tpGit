@@ -104,12 +104,19 @@ nav li
     margin-right: 15px;
 }
 
+    
 nav a
+    
 {
+    
     font-size: 1.3em;
-    color: #181818;
+    
+    color: blue;
+    
     padding-bottom: 3px;
+    
     text-decoration: none;
+    
 }
 
 nav a:hover
